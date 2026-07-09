@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "category": "Bathroom",
+    "icon": "http://localhost:3000/assets/download (1).svg",
+    "name": "Hot water"
+  },
+  {
+    "id": 2,
+    "category": "Bathroom",
+    "icon": "http://localhost:3000/assets/download (2).svg",
+    "name": "Hair dryer"
+  },
+  {
+    "id": 3,
+    "category": "Bathroom",
+    "icon": "http://localhost:3000/assets/download (3).svg",
+    "name": "Shampoo"
+  },
+  {
+    "id": 4,
+    "category": "Bathroom",
+    "icon": "http://localhost:3000/assets/download (4).svg",
+    "name": "Body soap"
+  },
+  {
+    "id": 5,
+    "category": "Bedroom and laundry",
+    "icon": "http://localhost:3000/assets/download (5).svg",
+    "name": "Washing machine"
+  },
+  {
+    "id": 6,
+    "category": "Bedroom and laundry",
+    "icon": "http://localhost:3000/assets/download (6).svg",
+    "name": "Extra pillows and blankets"
+  },
+  {
+    "id": 7,
+    "category": "Bedroom and laundry",
+    "icon": "http://localhost:3000/assets/download (7).svg",
+    "name": "Hangers"
+  },
+  {
+    "id": 8,
+    "category": "Bedroom and laundry",
+    "icon": "http://localhost:3000/assets/download (8).svg",
+    "name": "Iron"
+  },
+  {
+    "id": 9,
+    "category": "Entertainment",
+    "icon": "http://localhost:3000/assets/download (9).svg",
+    "name": "TV with standard cable"
+  },
+  {
+    "id": 10,
+    "category": "Entertainment",
+    "icon": "http://localhost:3000/assets/download (10).svg",
+    "name": "Books and reading material"
+  },
+  {
+    "id": 11,
+    "category": "Family",
+    "icon": "http://localhost:3000/assets/download (11).svg",
+    "name": "Board games"
+  },
+  {
+    "id": 12,
+    "category": "Heating and cooling",
+    "icon": "http://localhost:3000/assets/download (12).svg",
+    "name": "Air conditioning"
+  },
+  {
+    "id": 13,
+    "category": "Heating and cooling",
+    "icon": "http://localhost:3000/assets/download (13).svg",
+    "name": "Ceiling fan"
+  },
+  {
+    "id": 14,
+    "category": "Home safety",
+    "icon": "http://localhost:3000/assets/download (14).svg",
+    "name": "Smoke alarm"
+  },
+  {
+    "id": 15,
+    "category": "Home safety",
+    "icon": "http://localhost:3000/assets/download (15).svg",
+    "name": "First aid kit"
+  },
+  {
+    "id": 16,
+    "category": "Home safety",
+    "icon": "http://localhost:3000/assets/download (16).svg",
+    "name": "Fire extinguisher"
+  },
+  {
+    "id": 17,
+    "category": "Internet and office",
+    "icon": "http://localhost:3000/assets/download (17).svg",
+    "name": "Wifi"
+  },
+  {
+    "id": 18,
+    "category": "Internet and office",
+    "icon": "http://localhost:3000/assets/download (18).svg",
+    "name": "Dedicated workspace"
+  },
+  {
+    "id": 19,
+    "category": "Kitchen and dining",
+    "icon": "http://localhost:3000/assets/download (19).svg",
+    "name": "Kitchen"
+  },
+  {
+    "id": 20,
+    "category": "Kitchen and dining",
+    "icon": "http://localhost:3000/assets/download (20).svg",
+    "name": "Refrigerator"
+  },
+  {
+    "id": 21,
+    "category": "Kitchen and dining",
+    "icon": "http://localhost:3000/assets/download (21).svg",
+    "name": "Microwave"
+  },
+  {
+    "id": 22,
+    "category": "Kitchen and dining",
+    "icon": "http://localhost:3000/assets/download (22).svg",
+    "name": "Cooking basics"
+  },
+  {
+    "id": 23,
+    "category": "Kitchen and dining",
+    "icon": "http://localhost:3000/assets/download (23).svg",
+    "name": "Dishes and silverware"
+  },
+  {
+    "id": 24,
+    "category": "Kitchen and dining",
+    "icon": "http://localhost:3000/assets/download (24).svg",
+    "name": "Coffee maker"
+  },
+  {
+    "id": 25,
+    "category": "Location features",
+    "icon": "http://localhost:3000/assets/download (25).svg",
+    "name": "Private entrance"
+  },
+  {
+    "id": 26,
+    "category": "Location features",
+    "icon": "http://localhost:3000/assets/download (26).svg",
+    "name": "Beach access — Beachfront"
+  },
+  {
+    "id": 27,
+    "category": "Outdoor",
+    "icon": "http://localhost:3000/assets/download (27).svg",
+    "name": "Private patio or balcony"
+  },
+  {
+    "id": 28,
+    "category": "Outdoor",
+    "icon": "http://localhost:3000/assets/download (28).svg",
+    "name": "Shared pool"
+  },
+  {
+    "id": 29,
+    "category": "Outdoor",
+    "icon": "http://localhost:3000/assets/hot-tub.png",
+    "name": "Private jacuzzi"
+  },
+  {
+    "id": 30,
+    "category": "Parking and facilities",
+    "icon": "http://localhost:3000/assets/download (29).svg",
+    "name": "Free parking on premises"
+  },
+  {
+    "id": 31,
+    "category": "Parking and facilities",
+    "icon": "http://localhost:3000/assets/download (30).svg",
+    "name": "Elevator"
+  },
+  {
+    "id": 32,
+    "category": "Services",
+    "icon": "http://localhost:3000/assets/download (31).svg",
+    "name": "Long term stays allowed"
+  },
+  {
+    "id": 33,
+    "category": "Services",
+    "icon": "http://localhost:3000/assets/download (32).svg",
+    "name": "Self check-in"
+  },
+  {
+    "id": 34,
+    "category": "Services",
+    "icon": "http://localhost:3000/assets/download (33).svg",
+    "name": "Luggage dropoff allowed"
+  }
+]

@@ -1,0 +1,73 @@
+{
+  "name": "Mirashya",
+  "avatar": "http://localhost:3000/assets/host.jpg",
+  "isSuperhost": true,
+  "joinedDate": "March 2019",
+  "totalReviews": 63,
+  "rating": 4.92,
+  "responseRate": "100%",
+  "responseTime": "within an hour",
+  "about": "Hi! I'm Mirashya, your host at UG10. I've been hosting guests from around the world for over 5 years and I absolutely love it. My goal is to make your stay as comfortable, romantic, and memorable as possible. I'm always available if you need anything — restaurant tips, taxi numbers, beach gear, or just a friendly chat!",
+  "highlights": [
+    "Superhost with 5+ years of hosting experience",
+    "Response rate: 100%",
+    "Quick responses — usually within an hour",
+    "63 five-star reviews from happy guests"
+  ],
+  "coHosts": [
+    {
+      "name": "Co-host 1",
+      "avatar": "http://localhost:3000/assets/co1.jpg"
+    },
+    {
+      "name": "Co-host 2",
+      "avatar": "http://localhost:3000/assets/co2.jpg"
+    },
+    {
+      "name": "Co-host 3",
+      "avatar": "http://localhost:3000/assets/co3.jpg"
+    }
+  ],
+  "ratingBreakdown": [
+    {
+      "label": "Accuracy",
+      "icon": "http://localhost:3000/assets/accuracy.png",
+      "score": 4.9
+    },
+    {
+      "label": "Cleanliness",
+      "icon": "http://localhost:3000/assets/cleanliness.png",
+      "score": 4.95
+    },
+    {
+      "label": "Comfort",
+      "icon": "http://localhost:3000/assets/comfort.png",
+      "score": 4.9
+    },
+    {
+      "label": "Condition",
+      "icon": "http://localhost:3000/assets/condition.png",
+      "score": 4.85
+    },
+    {
+      "label": "Decor",
+      "icon": "http://localhost:3000/assets/decor.png",
+      "score": 4.95
+    },
+    {
+      "label": "Hospitality",
+      "icon": "http://localhost:3000/assets/hospitality.png",
+      "score": 5.0
+    },
+    {
+      "label": "Location",
+      "icon": "http://localhost:3000/assets/location.png",
+      "score": 4.8
+    },
+    {
+      "label": "Amenities",
+      "icon": "http://localhost:3000/assets/amenities.png",
+      "score": 4.9
+    }
+  ]
+}

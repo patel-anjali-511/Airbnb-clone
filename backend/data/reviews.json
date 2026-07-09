@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Priya S.",
+    "avatar": "http://localhost:3000/assets/rev1.jpg",
+    "date": "December 2024",
+    "rating": 5,
+    "text": "Absolutely stunning place! The jacuzzi was the highlight of our stay — we spent hours in it. The apartment was spotlessly clean, beautifully decorated, and had everything we needed. Mirashya was super responsive. 10/10 would recommend for couples!"
+  },
+  {
+    "id": 2,
+    "name": "Rohan M.",
+    "avatar": "http://localhost:3000/assets/rev2.jpg",
+    "date": "November 2024",
+    "rating": 5,
+    "text": "Perfect romantic getaway in Goa! The apartment exceeded all expectations. The location is great — walkable to Candolim beach. The host was very helpful with local restaurant recommendations. Will definitely be back."
+  },
+  {
+    "id": 3,
+    "name": "Ananya K.",
+    "avatar": "http://localhost:3000/assets/rev3.jpg",
+    "date": "October 2024",
+    "rating": 5,
+    "text": "We stayed here for our anniversary and it was magical. The decor is gorgeous, the jacuzzi is private and spacious. Everything was immaculate. Highly recommend to anyone looking for a luxury experience on a budget."
+  },
+  {
+    "id": 4,
+    "name": "Vikram D.",
+    "avatar": "http://localhost:3000/assets/rev4.jpg",
+    "date": "September 2024",
+    "rating": 4,
+    "text": "Great property overall! The jacuzzi was amazing and the apartment felt very premium. A small note — the WiFi was a bit slow at times. But the host resolved it quickly. The location is very convenient."
+  },
+  {
+    "id": 5,
+    "name": "Sneha R.",
+    "avatar": "http://localhost:3000/assets/rev5.jpg",
+    "date": "August 2024",
+    "rating": 5,
+    "text": "One of the best Airbnbs I've stayed at in India. The photos don't even do it justice! The jacuzzi, the bedroom setup, the kitchen — all top notch. The host was warm and welcoming. Absolutely loved it!"
+  },
+  {
+    "id": 6,
+    "name": "Karan P.",
+    "avatar": "http://localhost:3000/assets/co1.jpg",
+    "date": "July 2024",
+    "rating": 5,
+    "text": "Stayed here for a week with my partner — couldn't have asked for a better place. Peaceful, private, and luxurious. The jacuzzi was running perfectly. The host checked in regularly to make sure everything was comfortable. Highly recommended!"
+  }
+]

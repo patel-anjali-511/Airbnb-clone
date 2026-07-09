@@ -1,0 +1,60 @@
+{
+  "id": "romantic-jacuzzi-1bhk-candolim",
+  "title": "Romantic Jacuzzi 1BHK Candolim | Mirashya UG10",
+  "type": "Serviced apartment",
+  "location": "Candolim, Goa, India",
+  "rating": 4.92,
+  "reviewCount": 63,
+  "isSuperhost": true,
+  "isGuestFavorite": true,
+  "maxGuests": 2,
+  "bedrooms": 1,
+  "beds": 1,
+  "bathrooms": 1,
+  "description": "Escape to this romantic private serviced apartment nestled in the heart of Candolim, North Goa. Enjoy a luxurious soak in your private jacuzzi, unwind in tastefully designed interiors, and wake up refreshed just minutes from the beach. Whether it's a honeymoon, anniversary, or simply a romantic getaway — this is your perfect sanctuary.",
+  "highlights": [
+    {
+      "icon": "star",
+      "title": "Guest favourite",
+      "description": "This home is in the top 5% of eligible listings based on ratings, reviews, and reliability."
+    },
+    {
+      "icon": "home",
+      "title": "Entire home",
+      "description": "You'll have the serviced apartment to yourself."
+    },
+    {
+      "icon": "shield",
+      "title": "Enhanced Clean",
+      "description": "This host committed to Airbnb's 5-step enhanced cleaning process."
+    }
+  ],
+  "checkIn": "15:00",
+  "checkOut": "11:00",
+  "pricing": {
+    "basePrice": 8500,
+    "currency": "INR",
+    "cleaningFee": 1200,
+    "serviceFee": 1500,
+    "discountLabel": "10% discount on 7+ nights"
+  },
+  "sleepingArrangements": [
+    {
+      "id": 1,
+      "room": "Bedroom",
+      "image": "http://localhost:3000/assets/s1.jpg",
+      "beds": ["1 queen bed"]
+    },
+    {
+      "id": 2,
+      "room": "Living Room",
+      "image": "http://localhost:3000/assets/s2.jpg",
+      "beds": ["1 sofa bed"]
+    }
+  ],
+  "coordinates": {
+    "lat": 15.5194,
+    "lng": 73.7625
+  }
+}
+

@@ -1,0 +1,249 @@
+[
+  {
+    "id": 101,
+    "category": "Living room 1",
+    "url": "http://localhost:3000/assets/a9831aeb-f441-44f5-a38f-4cf54e3f0fcf.jpg",
+    "alt": "Living room with sofa and open-plan dining"
+  },
+  {
+    "id": 102,
+    "category": "Living room 1",
+    "url": "http://localhost:3000/assets/a45feaa2-b607-4092-83ac-5fd4b2894959.jpg",
+    "alt": "Living room TV and entertainment setup"
+  },
+  {
+    "id": 103,
+    "category": "Living room 1",
+    "url": "http://localhost:3000/assets/f1da1c3d-0d10-481e-9b63-c71f9073f30b.jpg",
+    "alt": "Sunlit living room with wooden furniture"
+  },
+
+  {
+    "id": 201,
+    "category": "Living room 2",
+    "url": "http://localhost:3000/assets/090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpg",
+    "alt": "Outdoor terrace with rattan furniture and hot tub"
+  },
+  {
+    "id": 202,
+    "category": "Living room 2",
+    "url": "http://localhost:3000/assets/9be71047-fc52-438a-9270-75cb470f6752.jpg",
+    "alt": "Wooden hot tub close-up"
+  },
+  {
+    "id": 203,
+    "category": "Living room 2",
+    "url": "http://localhost:3000/assets/f6de1663-4e9c-4414-b63b-29a154a92ee1.jpg",
+    "alt": "Terrace interior dark modern space"
+  },
+  {
+    "id": 204,
+    "category": "Living room 2",
+    "url": "http://localhost:3000/assets/153aa732-4935-48b8-a6fe-b469b6af5efc.jpg",
+    "alt": "Wide terrace with plants and outdoor seating"
+  },
+  {
+    "id": 205,
+    "category": "Living room 2",
+    "url": "http://localhost:3000/assets/3c6e6809-1bb1-47a6-8e24-aff593e1c28f.jpg",
+    "alt": "Terrace lounge with gray stone walls"
+  },
+
+  {
+    "id": 301,
+    "category": "Full kitchen",
+    "url": "http://localhost:3000/assets/56c44812-52c0-4481-90d8-101ec1f34c7a.jpg",
+    "alt": "Fully equipped kitchen with wooden cabinets and appliances"
+  },
+  {
+    "id": 302,
+    "category": "Full kitchen",
+    "url": "http://localhost:3000/assets/ddc853d7-e658-405c-bedc-8f31106c447e.jpg",
+    "alt": "Kitchen counter and modern appliances"
+  },
+
+  {
+    "id": 401,
+    "category": "Bedroom",
+    "url": "http://localhost:3000/assets/67c61c6f-6260-4809-9510-0360e58a345d.jpg",
+    "alt": "Bedroom with double bed and curtains"
+  },
+  {
+    "id": 402,
+    "category": "Bedroom",
+    "url": "http://localhost:3000/assets/1c827136-4a85-4fe0-8e69-3fd8ea19bb17.jpg",
+    "alt": "Bedroom entrance door view"
+  },
+  {
+    "id": 403,
+    "category": "Bedroom",
+    "url": "http://localhost:3000/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg",
+    "alt": "Bedroom with air conditioning and wardrobe"
+  },
+  {
+    "id": 404,
+    "category": "Bedroom",
+    "url": "http://localhost:3000/assets/79addceb-8c2d-419b-80ff-e29af426a94c.jpg",
+    "alt": "Bedroom with natural light and ceiling fan"
+  },
+  {
+    "id": 405,
+    "category": "Bedroom",
+    "url": "http://localhost:3000/assets/3cf31697-f3f3-4c60-82c4-029acb119ae4.jpg",
+    "alt": "Master bedroom setup with decor"
+  },
+
+  {
+    "id": 501,
+    "category": "Full bathroom",
+    "url": "http://localhost:3000/assets/97c78f8a-5090-4663-aebc-ba4e13b47092.jpg",
+    "alt": "Full bathroom with rain shower"
+  },
+  {
+    "id": 601,
+    "category": "Gym",
+    "url": "http://localhost:3000/assets/9aa8e65f-94ac-4ba0-9a10-9ec91e536d22.jpg",
+    "alt": "Building gym and fitness area"
+  },
+  {
+    "id": 602,
+    "category": "Gym",
+    "url": "http://localhost:3000/assets/246bd88d-4dd6-4117-a401-02a36ebfcf16.jpg",
+    "alt": "Fitness center with equipment"
+  },
+  {
+    "id": 603,
+    "category": "Gym",
+    "url": "http://localhost:3000/assets/4fede77d-7a71-446f-89e3-263af937f3fa.jpg",
+    "alt": "Fitness center with equipment"
+  },
+
+  {
+    "id": 701,
+    "category": "Exterior",
+    "url": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Modern villa with private balcony"
+  },
+  {
+    "id": 702,
+    "category": "Exterior",
+    "url": "https://images.unsplash.com/photo-1600585154526-990dced4db0d?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Outdoor patio with furniture and garden"
+  },
+  {
+    "id": 703,
+    "category": "Exterior",
+    "url": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Luxury home exterior surrounded by greenery"
+  },
+  {
+    "id": 704,
+    "category": "Exterior",
+    "url": "https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Private entrance with modern building facade"
+  },
+
+  {
+    "id": 801,
+    "category": "Pool",
+    "url": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Luxury outdoor swimming pool"
+  },
+  {
+    "id": 802,
+    "category": "Pool",
+    "url": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Resort pool with sun loungers"
+  },
+  {
+    "id": 803,
+    "category": "Pool",
+    "url": "https://images.unsplash.com/photo-1757439402268-1da284675170?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Luxury villa with illuminated pool at night"
+  },
+  {
+    "id": 804,
+    "category": "Pool",
+    "url": "https://images.unsplash.com/photo-1714572878219-d0d72a11e998?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Swimming pool at night with lights"
+  },
+  {
+    "id": 805,
+    "category": "Pool",
+    "url": "https://images.unsplash.com/photo-1757889692998-d851b95f912e?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Luxurious hotel pool area with palm trees"
+  },
+
+  {
+    "id": 901,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1613553474179-e1eda3ea5734?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Bedroom with glass sliding door"
+  },
+  {
+    "id": 902,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1601086540476-7d9fa9dd6023?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Outdoor dining area with white chairs"
+  },
+  {
+    "id": 903,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1602774895672-b553538bceb9?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Wooden table near swimming pool"
+  },
+  {
+    "id": 904,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1505843694770-3461f546bd8f?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Living room with sectional sofa and fireplace"
+  },
+  {
+    "id": 905,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1661069543196-9712dc126a91?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Open-air living room with tropical plants"
+  },
+  {
+    "id": 907,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1621626806480-53591486f446?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Bedroom with wooden bed frame and white mattress"
+  },
+  {
+    "id": 908,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1505576391880-b3f9d713dc4f?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Decor with planters and area rug"
+  },
+  {
+    "id": 909,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1601002257790-ebe0966a85ae?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Living room with yellow and white sofas"
+  },
+  {
+    "id": 910,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1698335443108-1cc66059fe32?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Dining room with blue chairs and white table"
+  },
+  {
+    "id": 911,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1625163865002-c3563a586b95?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Living room with wooden floor"
+  },
+  {
+    "id": 912,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1533044309907-0fa3413da946?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Copper wired accent chair"
+  },
+  {
+    "id": 913,
+    "category": "Additional photos",
+    "url": "https://images.unsplash.com/photo-1759372945658-1e9f56e751bd?auto=format&fit=crop&w=1200&q=80",
+    "alt": "Tropical villa with pool at twilight"
+  }
+]
