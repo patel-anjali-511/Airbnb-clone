@@ -72,7 +72,7 @@ const StickySubNav: React.FC<StickySubNavProps> = ({
               <span className="text-neutral-400 mx-0.5">·</span>
               <span className="text-neutral-500 font-normal">{reviewCount} reviews</span>
             </div>
-            <button className="bg-[#FF385C] hover:bg-[#e00b41] text-white font-semibold text-sm px-5 py-2 rounded-lg transition">
+            <button className="bg-[#E31C5F] text-white font-semibold py-2 px-6 rounded-[8px] hover:bg-[#D70466] active:scale-[0.98] transition-all focus:outline-none text-[15px] leading-[20px] shadow-sm hover:shadow-md">
               Reserve
             </button>
           </div>

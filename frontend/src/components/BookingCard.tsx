@@ -268,7 +268,7 @@ const BookingCard: React.FC<BookingCardProps> = ({
         </div>
 
         {/* ── Reserve Button ── */}
-        <button className="w-full bg-gradient-to-r from-[#e61e4d] via-[#e31c5f] to-[#d70466] text-white font-semibold py-3.5 rounded-xl hover:opacity-95 transition focus:outline-none text-base mb-3">
+        <button className="w-full bg-[#E31C5F] text-white font-semibold py-3 rounded-[8px] hover:bg-[#D70466] active:scale-[0.98] transition-all focus:outline-none text-[16px] leading-[20px] tracking-wide mb-3 shadow-md hover:shadow-lg">
           Reserve
         </button>
         <p className="text-center text-xs text-neutral-500">You won't be charged yet</p>
