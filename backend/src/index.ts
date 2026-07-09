@@ -25,7 +25,11 @@ app.use("/assets", express.static(assetsDir));
 // Register API Routes
 app.use("/api", apiRoutes);
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-  console.log(`Assets served at http://localhost:${PORT}/assets/`);
-});
+if (process.env.NODE_ENV !== "production") {
+  app.listen(PORT, () => {
+    console.log(`Server is running on port ${PORT}`);
+    console.log(`Assets served at http://localhost:${PORT}/assets/`);
+  });
+}
+
+export default app;
