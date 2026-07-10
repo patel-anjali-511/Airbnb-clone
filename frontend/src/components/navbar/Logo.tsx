@@ -1,7 +1,7 @@
 const Logo = () => {
   return (
     <div 
-      className="flex items-center cursor-pointer select-none" 
+      className="hidden md:flex items-center cursor-pointer select-none" 
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
     >
       <svg 

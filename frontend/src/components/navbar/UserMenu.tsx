@@ -2,7 +2,7 @@ import { Globe, Menu, User } from "lucide-react";
 
 const UserMenu = () => {
   return (
-    <div className="relative">
+    <div className="relative hidden md:block">
       <div className="flex flex-row items-center gap-1">
         <div className="hidden md:block text-sm font-semibold py-3 px-4 rounded-full hover:bg-neutral-100 transition cursor-pointer">
           Become a host

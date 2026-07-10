@@ -63,10 +63,10 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images, onShowAll, onShowPh
       transition={{ duration: 0.5 }}
       className="relative rounded-xl overflow-hidden"
     >
-      {/* ── 5-image grid layout ── */}
-      <div className="grid grid-cols-4 grid-rows-2 gap-2 h-[480px]">
-        {/* Left: large primary image spanning 2 cols × 2 rows */}
-        <div className="col-span-2 row-span-2">
+      {/* ── Responsive grid layout ── */}
+      <div className="grid grid-cols-1 md:grid-cols-4 md:grid-rows-2 gap-2 h-[300px] sm:h-[400px] md:h-[480px]">
+        {/* Left: large primary image spanning 2 cols × 2 rows on desktop, full width on mobile */}
+        <div className="col-span-1 md:col-span-2 md:row-span-2 h-full">
           <ImageTile
             image={heroImages[0]!}
             onClick={() => onShowPhoto(0)}
@@ -75,9 +75,9 @@ const ImageGallery: React.FC<ImageGalleryProps> = ({ images, onShowAll, onShowPh
           />
         </div>
 
-        {/* Right: 4 smaller images in a 2×2 grid */}
+        {/* Right: 4 smaller images in a 2×2 grid (hidden on mobile) */}
         {heroImages.slice(1).map((img, i) => (
-          <div key={img.id ?? i} className="col-span-1 row-span-1">
+          <div key={img.id ?? i} className="hidden md:block col-span-1 row-span-1 h-full">
             <ImageTile
               image={img}
               onClick={() => onShowPhoto(i + 1)}
