@@ -2,11 +2,11 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const _filename = fileURLToPath(import.meta.url);
+const _dirname = path.dirname(_filename);
 
 export const readJsonFile = (filename: string, baseUrl: string): unknown => {
-  const filePath = path.join(__dirname, "..", "..", "data", filename);
+  const filePath = path.join(_dirname, "..", "..", "data", filename);
   try {
     let data = fs.readFileSync(filePath, "utf8");
     data = data.replace(/http:\/\/localhost:3000/g, baseUrl);
