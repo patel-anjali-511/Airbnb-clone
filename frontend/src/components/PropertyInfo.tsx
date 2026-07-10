@@ -91,14 +91,14 @@ const PropertyInfo: React.FC<PropertyInfoProps> = ({ listing, host }) => {
                 <path fillRule="evenodd" clipRule="evenodd" d="M1.66037 7.28295C1.80927 6.89397 2.26578 6.67525 2.74598 6.76282C5.29848 7.22831 7.26368 8.31371 8.44396 10.0911C9.61955 11.8614 9.70866 13.854 8.89805 15.9715C8.74915 16.3605 8.29264 16.5792 7.81244 16.4916C5.25994 16.0261 3.29474 14.9407 2.11446 13.1634C0.938866 11.393 0.849755 9.40048 1.66037 7.28295ZM3.3385 8.6613C2.94038 10.1267 3.14588 11.3465 3.83454 12.3835C4.51397 13.4067 5.60091 14.1584 7.21992 14.5931C7.61804 13.1278 7.41254 11.9079 6.72388 10.8709C6.04445 9.84774 4.95751 9.09607 3.3385 8.6613Z" fill="#222222" />
               </svg>
             </div>
-            <div className="w-px h-8 bg-neutral-200" />
-            <p className="text-sm text-neutral-600 font-normal max-w-[210px] leading-snug">
+            <div className="hidden sm:block w-px h-8 bg-neutral-200" />
+            <p className="text-sm text-neutral-600 font-normal sm:max-w-[210px] leading-snug">
               One of the most loved homes on Airbnb, according to guests
             </p>
           </div>
 
           {/* Right: Rating + Review count */}
-          <div className="flex items-center gap-6 pr-2">
+          <div className="flex items-center gap-4 sm:gap-6 md:pr-2">
             <div className="flex flex-col items-center">
               <span className="text-xl font-bold text-neutral-900">{listing.rating.toFixed(2)}</span>
               <div className="flex text-amber-400 text-xs mt-0.5">
