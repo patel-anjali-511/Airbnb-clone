@@ -1,3 +1,4 @@
+import { API_BASE_URL } from "../config/api";
 import React from 'react';
 import type { Review } from '../types';
 
@@ -89,7 +90,7 @@ const Reviews: React.FC<ReviewsProps> = ({ reviews, rating, reviewCount }) => {
       <div className="flex flex-col items-center justify-center text-center mb-8 relative">
         <div className="flex items-center justify-center gap-6 select-none">
           <img
-            src="http://localhost:3000/assets/laurel-left.png"
+            src={`${API_BASE_URL}/assets/laurel-left.png`}
             alt=""
             className="w-16 h-16 object-contain opacity-90"
             aria-hidden="true"
@@ -98,7 +99,7 @@ const Reviews: React.FC<ReviewsProps> = ({ reviews, rating, reviewCount }) => {
             {rating.toFixed(2)}
           </div>
           <img
-            src="http://localhost:3000/assets/laurel-right.png"
+            src={`${API_BASE_URL}/assets/laurel-right.png`}
             alt=""
             className="w-16 h-16 object-contain opacity-90"
             aria-hidden="true"
@@ -169,7 +170,7 @@ const Reviews: React.FC<ReviewsProps> = ({ reviews, rating, reviewCount }) => {
         ))}
         {/* Placeholder image chip mimicking the thumbnail at the end of the strip */}
         <div className="w-10 h-10 rounded-full overflow-hidden border border-neutral-200 shrink-0">
-          <img src="http://localhost:3000/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg" alt="Review thumbnail" className="w-full h-full object-cover" />
+          <img src={`${API_BASE_URL}/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg`} alt="Review thumbnail" className="w-full h-full object-cover" />
         </div>
       </div>
 

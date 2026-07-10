@@ -1,3 +1,4 @@
+import { API_BASE_URL } from "../../config/api";
 import { Search as SearchIcon } from "lucide-react";
 
 const Search = () => {
@@ -8,7 +9,7 @@ const Search = () => {
         <div className="flex items-center gap-2.5 pl-2 pr-4 text-sm font-semibold text-gray-900">
           <div className="w-10 h-10 flex items-center justify-center overflow-visible">
             <img
-              src="http://localhost:3000/assets/searchbar-house.png"
+              src={`${API_BASE_URL}/assets/searchbar-house.png`}
               alt="Stays"
               className="w-10 h-10 object-contain scale-125"
             />

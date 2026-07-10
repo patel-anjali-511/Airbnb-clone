@@ -1,3 +1,4 @@
+import { API_BASE_URL } from "../config/api";
 import React, { useState } from "react";
 import { ChevronLeft, ChevronRight, Star, Heart } from "lucide-react";
 import { motion, AnimatePresence } from "framer-motion";
@@ -17,35 +18,35 @@ const NEARBY_STAYS_PAGE_1: NearbyStay[] = [
     title: "Beautiful Studio with a view to die for",
     price: "₹23,600",
     rating: 4.91,
-    image: "http://localhost:3000/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg",
+    image: `${API_BASE_URL}/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg`,
   },
   {
     id: 2,
     title: "NAQAB - 1bhk with private pool",
     price: "₹42,218",
     rating: 4.95,
-    image: "http://localhost:3000/assets/090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpg",
+    image: `${API_BASE_URL}/assets/090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpg`,
   },
   {
     id: 3,
     title: "Greentique Luxury Flat with plunge pool, Calangute",
     price: "₹44,506",
     rating: 4.94,
-    image: "http://localhost:3000/assets/153aa732-4935-48b8-a6fe-b469b6af5efc.jpg",
+    image: `${API_BASE_URL}/assets/153aa732-4935-48b8-a6fe-b469b6af5efc.jpg`,
   },
   {
     id: 4,
     title: "The Tropical Studio | 5 mins to Beach",
     price: "₹22,824",
     rating: 4.96,
-    image: "http://localhost:3000/assets/1c827136-4a85-4fe0-8e69-3fd8ea19bb17.jpg",
+    image: `${API_BASE_URL}/assets/1c827136-4a85-4fe0-8e69-3fd8ea19bb17.jpg`,
   },
   {
     id: 5,
     title: "Luxury Casa Bella 1BHK with plunge pool, Calangute",
     price: "₹39,942",
     rating: 4.95,
-    image: "http://localhost:3000/assets/2367476f-11c4-4a14-a7c6-267be62c1d59.jpg",
+    image: `${API_BASE_URL}/assets/2367476f-11c4-4a14-a7c6-267be62c1d59.jpg`,
   },
 ];
 
@@ -55,35 +56,35 @@ const NEARBY_STAYS_PAGE_2: NearbyStay[] = [
     title: "Candolim Sunset Penthouse with Jacuzzi",
     price: "₹28,500",
     rating: 4.98,
-    image: "http://localhost:3000/assets/23ea6621-6f74-4baa-acea-2fd03e312b41.jpg",
+    image: `${API_BASE_URL}/assets/23ea6621-6f74-4baa-acea-2fd03e312b41.jpg`,
   },
   {
     id: 7,
     title: "Mirashya's Garden Villa | Walk to Candolim Beach",
     price: "₹35,200",
     rating: 4.93,
-    image: "http://localhost:3000/assets/246bd88d-4dd6-4117-a401-02a36ebfcf16.jpg",
+    image: `${API_BASE_URL}/assets/246bd88d-4dd6-4117-a401-02a36ebfcf16.jpg`,
   },
   {
     id: 8,
     title: "Azure Private Suite with Plunge Pool & Deck",
     price: "₹31,400",
     rating: 4.92,
-    image: "http://localhost:3000/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg",
+    image: `${API_BASE_URL}/assets/0622ab42-b851-4d55-9d9f-df3143bc5909.jpg`,
   },
   {
     id: 9,
     title: "Boho Luxury Loft near Calangute Beach",
     price: "₹25,900",
     rating: 4.96,
-    image: "http://localhost:3000/assets/153aa732-4935-48b8-a6fe-b469b6af5efc.jpg",
+    image: `${API_BASE_URL}/assets/153aa732-4935-48b8-a6fe-b469b6af5efc.jpg`,
   },
   {
     id: 10,
     title: "Serene 1BHK Serviced Apartment in Candolim",
     price: "₹21,800",
     rating: 4.94,
-    image: "http://localhost:3000/assets/090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpg",
+    image: `${API_BASE_URL}/assets/090d8b0b-b539-42c0-84f8-e1fb0cdf9a93.jpg`,
   },
 ];
 

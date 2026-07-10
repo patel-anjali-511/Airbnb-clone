@@ -1,3 +1,4 @@
+import { API_BASE_URL } from "../config/api";
 import React from 'react';
 import type { Host } from '../types';
 
@@ -78,27 +79,27 @@ const HostSection: React.FC<HostSectionProps> = ({ host }) => {
               {/* Co-hosts block containing image avatars or custom colored initial text boxes */}
               <div className="flex flex-wrap gap-y-3 gap-x-4 items-center">
                 <div className="flex items-center gap-2">
-                  <img src="http://localhost:3000/assets/co1.jpg" alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
+                  <img src={`${API_BASE_URL}/assets/co1.jpg`} alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
                   <span className="text-[14px] text-neutral-800 font-normal">Sharath</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <img src="http://localhost:3000/assets/co2.jpg" alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
+                  <img src={`${API_BASE_URL}/assets/co2.jpg`} alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
                   <span className="text-[14px] text-neutral-800 font-normal">Aman Dev Pahwa</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <img src="http://localhost:3000/assets/co3.jpg" alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
+                  <img src={`${API_BASE_URL}/assets/co3.jpg`} alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
                   <span className="text-[14px] text-neutral-800 font-normal">Maria Karen Priyanka</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <img src="http://localhost:3000/assets/rev5.jpg" alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
+                  <img src={`${API_BASE_URL}/assets/rev5.jpg`} alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
                   <span className="text-[14px] text-neutral-800 font-normal">Simran</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <img src="http://localhost:3000/assets/rev1.jpg" alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
+                  <img src={`${API_BASE_URL}/assets/rev1.jpg`} alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
                   <span className="text-[14px] text-neutral-800 font-normal">Pallavi</span>
                 </div>
                 <div className="flex items-center gap-2">
-                  <img src="http://localhost:3000/assets/rev2.jpg" alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
+                  <img src={`${API_BASE_URL}/assets/rev2.jpg`} alt="" className="w-[32px] h-[32px] rounded-full object-cover" />
                   <span className="text-[14px] text-neutral-800 font-normal">Sanyukta</span>
                 </div>
                 <div className="flex items-center gap-2">
